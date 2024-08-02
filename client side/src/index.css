@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li{
+    list-style-type: none;
+}
+.Linkk{
+    color: rgb(79, 78, 78);
+    text-decoration: none;
+    /* font-weight: 600; */
+    /* color: rgb(4, 46, 4); */
+}
+
+.background-image{
+    /* background-color: red; */
+}
