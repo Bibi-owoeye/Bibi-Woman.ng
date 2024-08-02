@@ -13,7 +13,7 @@ const Register = () => {
 
   // Set a timeout to update the message after 3 seconds
 
-  let url = "http://localhost:3000/register";
+  let url = "https://bibi-woman-ng-q5rb.vercel.app/register";
   const getData = () => {
     if (
       firstName === "" ||
